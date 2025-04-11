@@ -36,7 +36,7 @@ In the future, development may expand into custom engines written in **Java** or
 ## 🚧 Projects in the Works
 
 Keep an eye on this space — more details, devlogs, prototypes, and open-source tools are coming soon!
-- Current active project, Clone for Flappy Bird to gain confidence again in Unity Tools and ignite the game development passion.
+- Current active project, Clone for "Flappy Bird" to gain confidence again in Unity engine/tools and ignite the game development passion.
 
 ---
 
