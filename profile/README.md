@@ -6,7 +6,8 @@ Welcome to **Radiant Echo Games** — a one-person game development studio curre
 
 ## 🌟 About the Studio
 
-Radiant Echo Games was founded with the dream of crafting original and immersive games that resonate with players. Right now, it's a **solo dev project**, built with passion, curiosity, and an endless love for games of all genres.
+Radiant Echo Games was founded with the dream of crafting original and immersive games that resonate with players.
+Right now, it's a **solo dev project**, built with passion, curiosity, and an endless love for games of all genres.
 
 Whether it's action-packed adventures, deep narrative-driven experiences, or quirky little experiments — this studio is here for all of it.
 
